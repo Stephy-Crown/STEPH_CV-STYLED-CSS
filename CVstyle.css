@@ -1,0 +1,44 @@
+body{
+font-family: 'Times New Roman', Times, serif;
+background-color:rgb(240, 185, 241); 
+padding: 18px 0 18px 0;
+}
+.CV-image{
+    height:300px ;
+    border: 3px solid rgb(216, 118, 211);
+    border-radius:50%;
+    margin:auto;
+}
+h1 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container{
+   margin:0px auto
+}
+.section{
+    background-color: #fff;
+    padding:15px;
+    margin-bottom:10px; 
+    border-radius:10px;
+}
+.buttons{
+    background-color:rgb(237, 198, 238);
+    border-radius: 10px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+table{
+    width: 100%;
+}
+table, th, td{
+border: 2px solid #cecece;
+text-align: center;
+table-layout: fixed;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.input{
+    padding:15px;
+}
